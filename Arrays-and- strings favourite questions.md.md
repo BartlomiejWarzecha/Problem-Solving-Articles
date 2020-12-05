@@ -1,6 +1,6 @@
 +++ 
 date = 2020-09-23T19:04:26+02:00
-title = "My favourite arrays  questions"
+title = "My favourite array questions"
 slug = "three-arrays-questions" 
 tags = []
 categories = []
